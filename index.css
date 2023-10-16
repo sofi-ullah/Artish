@@ -1,0 +1,224 @@
+/*---------
+baner stylis
+---------*/
+a{
+    text-decoration: none;
+}
+.header-baner{
+    background-color: #e9d2be;
+}
+.header{
+    
+    clear: both;
+    padding: 30px;
+}
+.shiro-name{
+    display: inline-block;
+    font-size: 50px;
+    margin: -10px 0 0 100px;
+}
+.meno{
+    margin: -60px 80px 20px 600px;
+    font-size: 17px;
+    color: #4c4545;
+}
+.meno   li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+}
+/*---
+baner setion stylis 
+---*/
+.baner{
+    text-align: center;
+}
+.baner-section {
+    width: 650px;
+    padding: 0 0 0 230px;
+}
+.baner-section h1{
+    font-size: 80px;
+}
+.baner-section p{
+    color: #5d6062;
+    font-size: 20px;
+    margin: -30px 10px 40px 0px;
+}
+span{
+    border: 1px solid;
+    padding: 20px;
+    background: #FF900E;
+    color:#FF900E;
+    border-radius: 5px;
+    /* margin: 0px 20px 0 0; */
+}
+span a{
+    color: #f2efef;
+}
+.baner-section img{
+    max-width: 100%;
+    padding: 50px 0px;
+}
+
+/*--------teams section styles
+--------*/
+.teams-contenar{
+    height: 800px;
+}
+.teams-img-contenar{
+    width: 700px;
+    display: inline-block;
+    padding: 50px 0;
+}
+.teams-img-contenar img{
+    height: 330px;
+    max-height: 100%; 
+    padding: 8px;
+}
+.teams-text-contenar{
+    width: 400px;
+    float: right;
+    height: 800px;
+}
+.teams-text-contenar h1{
+    font-size: 50px;
+    padding: 120px 50px 50px;
+}
+.color1{
+    color: #727272;
+    display: block;
+}
+.color2{
+    color: #0c0b0b;
+    display: block;
+}
+.color3{
+    color: #f22415;
+}
+.teams-text-contenar p {
+    width: 240px;
+    padding: 10px 50px;
+    font-size: 18px;
+    color: #727272;
+}
+span4{
+    border: 0px solid;
+    padding: 20px;
+    background: #FF900E;
+    color: #FF900E;
+    border-radius: 5px;
+    margin: 50px;
+    font-size: 25px;
+}
+span4 a{
+    color: #f9f8f8;
+
+} 
+
+/*----- future contener stylis_________*/
+.future-conten{
+    width: 215px;
+}   
+
+.section-taitel h1{
+
+    font-size: 40px;
+    border-left: 5px solid #FF900E;   
+    padding-left: 18px;
+}  
+.section-taitel p{
+
+    color: #727272;
+}     
+.section-taitel .card{
+
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}    
+   
+
+/*future img stylis */
+
+.future-img{
+    width: 710px;
+    float: right;
+    margin: -1680px 0;
+    padding: 10px -70px;
+}
+.future-img img{
+    position: absolute;
+    height: 1600px;
+    width: 740px;
+}
+.exfreyans{
+    text-align: center;
+    width: 300px;
+    background: #FF900E;
+    color: #fff;
+    padding: 40px;
+    position: relative;
+    margin: 1500px 0 0px -90px;
+    border-radius: 7px;
+}
+.exfreyans h2{
+
+    font-size: 50px;
+    padding: -40px;
+    margin: 10px;
+}
+.exfreyans p{
+
+    font-size: 30px;
+    margin-top: -5px;
+}
+/* facts styles */
+.facts{
+    margin-top: 120px;
+}
+.facts h1{
+
+font-size: 50px;
+}
+.facts p{
+
+color: #727272;
+
+font-size: 18px;
+}
+
+.facts-card .card{
+    width: 170px;
+    display: inline-block;
+    border-radius: 8px;
+    border: 1px solid #FF900E;
+    text-align: center;
+    padding: 30px;
+    margin-left: 35px;
+}
+.facts-card .card h2{
+    font-size: 55px;
+    margin: 10px 0px;
+}
+.facts-card .card p{ 
+    font-size: 22px;
+    margin: 5px 0px;
+}
+/*sponsors stylis*/
+.sponsors{
+    text-align: center;
+}
+.sponsors h3{
+    font-size: 50px;
+}
+.sponsors p{
+    color: #727272;
+    margin-top: -20px;
+}
+.sponsors img{
+    display: inline-block;
+    padding: 30px 35px 70px 15px;
+}
